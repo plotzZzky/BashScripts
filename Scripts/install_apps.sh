@@ -2,7 +2,7 @@
 
 # ------------------------ Importa as variaveis do .env -------------------------
 set -a
-source ./.env
+source ../.env
 set +a
 
 # ------------------------ Listas com os apps para instalar -------------------------
